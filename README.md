@@ -8,7 +8,3 @@ This is a subsection.
 ## Subsection 2
 
 Here is another boilerplate sentence.
-
-## Changelog
-
-- Now it says goodbye, too!
